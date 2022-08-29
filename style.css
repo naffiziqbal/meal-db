@@ -1,0 +1,8 @@
+input[type="search"]{
+    outline: none;
+    padding: .3rem;
+}
+
+.search {
+    margin: 2rem;
+}
